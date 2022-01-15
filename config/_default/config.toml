@@ -1,0 +1,17 @@
+######################## default configuration ####################
+baseURL = "https://scrum.app/"
+title = "The scrume app"
+theme = "bigspring-light"
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "UA-217260304-3" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+disableLanguages = ['de']
