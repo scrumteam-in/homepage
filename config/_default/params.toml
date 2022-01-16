@@ -21,8 +21,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [navigation_button]
 enable = true
-label = "Log In"
-link = "Sign up"
+label = "Join the waitlist"
+link = "https://airtable.com/shrehUfA88vmgjkXs"
 
 # cookies
 [cookies]

@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://scrumteam.in/"
+baseURL = ""
 title = "The scrume app"
 theme = "bigspring-light"
 # post pagination
@@ -13,5 +13,3 @@ googleAnalytics = "UA-217260304-3" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
-
-disableLanguages = ['de']

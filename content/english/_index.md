@@ -5,9 +5,9 @@ banner:
   image : "images/banner-art.svg"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
-    enable : false
-    label : "Sign Up"
-    link : "contact"
+    enable : true
+    label : "Join the waitlist"
+    link : "https://airtable.com/shrehUfA88vmgjkXs"
 
 ##################### Feature ##########################
 feature:
