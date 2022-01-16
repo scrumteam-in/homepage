@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://scrumteam.in"
 title = "The scrume app"
 theme = "bigspring-light"
 # post pagination
